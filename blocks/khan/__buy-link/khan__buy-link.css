@@ -1,4 +1,5 @@
 .khan__buy-link {
+    position: absolute;
     margin: 0 0 0 48px;
     line-height: 42px;
     font-size: 30px;
@@ -6,6 +7,7 @@
     color: #2f80ed;
     text-decoration: none;
     transition: ease-in-out 0.5s;
+    
     
 }
 
