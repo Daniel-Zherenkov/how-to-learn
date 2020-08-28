@@ -3,5 +3,6 @@
     height: 620px;
     object-fit: cover;
     object-position: left top;
-    margin: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
